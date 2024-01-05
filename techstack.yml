@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/aspnetboilerplate
 report_id: b66d85557ab2a6e75890062d4c9ff722
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:52:39+00:00'
+timestamp: '2024-01-05T08:31:06+00:00'
 requested_by: hikalkan
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.AutoMapper/Abp.AutoMapper.csproj
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.AutoMapper/Abp.AutoMapper.csproj
   detection_source: src/Abp.AutoMapper/Abp.AutoMapper.csproj
   last_updated_by: hikalkan
   last_updated_on: 2014-11-16 12:43:38.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -39,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -49,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -60,6 +64,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Tests/Abp.NHibernate.Tests/packages.config
   detection_source: src/Tests/Abp.NHibernate.Tests/packages.config
   last_updated_by: hikalkan
   last_updated_on: 2015-02-08 22:01:48.000000000 Z
@@ -73,6 +78,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.EntityFramework/packages.config
   detection_source: src/Abp.EntityFramework/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -85,7 +91,7 @@ tools:
   category: Data Stores
   sub_category: Background Processing
   image_url: https://img.stackshare.io/service/4676/7880472.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.HangFire/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.HangFire/packages.config
   detection_source: src/Abp.HangFire/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-20 20:00:07.000000000 Z
@@ -97,6 +103,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.MongoDB/packages.config
   detection_source: src/Abp.MongoDB/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -110,7 +117,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/2250/LogoNH_med_400x400.JPG
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.NHibernate/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.NHibernate/packages.config
   detection_source: src/Abp.NHibernate/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -123,6 +130,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Tests/Abp.NHibernate.Tests/packages.config
   detection_source: src/Tests/Abp.NHibernate.Tests/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -136,7 +144,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/4013/SignalR-logo.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.SignalR/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.SignalR/packages.config
   detection_source: src/Abp.Web.SignalR/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-25 15:44:56.000000000 Z
@@ -148,6 +156,7 @@ tools:
   category: Monitoring
   sub_category: Logging Tools
   image_url: https://img.stackshare.io/service/20916/default_6d17162c9963bc83521ee29cf394f349c95173f3.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.AutoMapper/packages.config
   detection_source: src/Abp.AutoMapper/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -160,6 +169,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/2249/default_12b2b039b83152e7b9f24c0f61bfa26142f35614.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.EntityFramework/packages.config
   detection_source: src/Abp.EntityFramework/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -171,6 +181,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -180,6 +191,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Tests/Abp.NHibernate.Tests/packages.config
   detection_source: src/Tests/Abp.NHibernate.Tests/packages.config
   last_updated_by: hikalkan
   last_updated_on: 2015-02-08 22:01:48.000000000 Z
@@ -191,6 +203,7 @@ tools:
   category: Application Hosting
   sub_category: Web Server Interface
   image_url: https://img.stackshare.io/service/4967/New_Project__95_.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.HangFire/packages.config
   detection_source: src/Abp.HangFire/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-20 20:00:07.000000000 Z
@@ -203,6 +216,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.sln
   detection_source: src/Abp.sln
   last_updated_by: yuzu
   last_updated_on: 2016-02-19 07:44:47.000000000 Z
@@ -215,7 +229,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   detection_source: src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   last_updated_by: hikalkan
   last_updated_on: 2015-01-30 12:48:10.000000000 Z
@@ -225,6 +239,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/doc/Articles/Codeproject/AOP-Interceptors/article.html
   detection_source: doc/Articles/Codeproject/AOP-Interceptors/article.html
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-23 13:41:19.000000000 Z
@@ -238,7 +253,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12871/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.AutoMapper/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.AutoMapper/packages.config
   detection_source: src/Abp.AutoMapper/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -252,7 +267,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13368/default_4d4f20064faa1a784f764c1e08d3b0e36273065c.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.HangFire/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.HangFire/packages.config
   detection_source: src/Abp.HangFire/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-20 20:00:07.000000000 Z
@@ -267,7 +282,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14181/default_f8c910988abe069d9ff4d70e42f45e31fffd305d.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.EntityFramework/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.EntityFramework/packages.config
   detection_source: src/Abp.EntityFramework/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -282,7 +297,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13431/default_b5cc6dac756daf8a76f449b0db2d2933859829df.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.FluentMigrator/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.FluentMigrator/packages.config
   detection_source: src/Abp.FluentMigrator/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2015-12-21 14:01:20.000000000 Z
@@ -296,7 +311,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13132/default_44f069d4a745c5c788fc8fe5128bd24cacde1aff.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.NHibernate/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.NHibernate/packages.config
   detection_source: src/Abp.NHibernate/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -311,7 +326,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13154/default_8ec8443385d582f19f93b79f0dcf69f422e58967.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.HangFire/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.HangFire/packages.config
   detection_source: src/Abp.HangFire/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-20 20:00:07.000000000 Z
@@ -326,7 +341,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13107/default_baa6c1c3e725b18a803052f0d13efd0ca49e5d50.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.NHibernate/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.NHibernate/packages.config
   detection_source: src/Abp.NHibernate/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -341,7 +356,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12850/default_0f5233770e71818507f2339042e7e61bef904e70.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Mvc/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Mvc/packages.config
   detection_source: src/Abp.Web.Mvc/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -355,7 +370,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13355/default_24f30a6aa060dc11b9cd4dd1d52905db9245e978.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
   detection_source: src/Abp.Web.Api.OData/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-25 15:49:52.000000000 Z
@@ -369,7 +384,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12930/default_f8bf1110f8f0beaf5fae35865de7f77ccd1139f0.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Mvc/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Mvc/packages.config
   detection_source: src/Abp.Web.Mvc/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -382,7 +397,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13146/default_44f069d4a745c5c788fc8fe5128bd24cacde1aff.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.SignalR/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.SignalR/packages.config
   detection_source: src/Abp.Web.SignalR/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-25 20:10:06.000000000 Z
@@ -397,7 +412,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12923/default_039376cf26bae25623c106aea6185b89980a1e50.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api/packages.config
   detection_source: src/Abp.Web.Api/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -412,7 +427,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12870/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
   detection_source: src/Abp.Web.Api.OData/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-25 15:49:52.000000000 Z
@@ -426,7 +441,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12879/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
   detection_source: src/Abp.Web.Api.OData/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-25 15:49:52.000000000 Z
@@ -441,7 +456,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12978/default_d871263d8798790404638a4d3692cc70b6389166.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api/packages.config
   detection_source: src/Abp.Web.Api/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -456,7 +471,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12947/default_d871263d8798790404638a4d3692cc70b6389166.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Mvc/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Mvc/packages.config
   detection_source: src/Abp.Web.Mvc/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -469,7 +484,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13296/default_1e1f93823dcbf467a805adfd578c74f8f54c6a4e.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
   detection_source: src/Abp.Web.Api.OData/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-25 15:49:52.000000000 Z
@@ -483,7 +498,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13371/default_a8c5a9d917d12544e0591a4182335d690601b375.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
   detection_source: src/Abp.Web.Api.OData/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-25 15:49:52.000000000 Z
@@ -498,7 +513,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12889/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.SignalR/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.SignalR/packages.config
   detection_source: src/Abp.Web.SignalR/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-25 15:49:52.000000000 Z
@@ -526,7 +541,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12922/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.SignalR/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.SignalR/packages.config
   detection_source: src/Abp.Web.SignalR/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-25 15:49:52.000000000 Z
@@ -540,7 +555,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13328/default_4d1c8e39751da3e5e8bf7305f3f45ac90df4be6f.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api.OData/packages.config
   detection_source: src/Abp.Web.Api.OData/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-25 15:49:52.000000000 Z
@@ -554,7 +569,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12927/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Mvc/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Mvc/packages.config
   detection_source: src/Abp.Web.Mvc/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -567,7 +582,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13027/default_79c0a8d9add56bcf90325ea0ad034f66b38d8dd7.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.MongoDB/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.MongoDB/packages.config
   detection_source: src/Abp.MongoDB/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -580,7 +595,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12892/default_f3b66025ae87cade251c16c8d9e166b0f1df9597.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.MongoDB/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.MongoDB/packages.config
   detection_source: src/Abp.MongoDB/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -600,7 +615,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13134/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.MongoDB/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.MongoDB/packages.config
   detection_source: src/Abp.MongoDB/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -614,7 +629,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13290/default_f1d03070d16050375185746648c3b260664eace4.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   detection_source: src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2015-12-21 14:01:20.000000000 Z
@@ -628,13 +643,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.HangFire/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.HangFire/packages.config
   detection_source: src/Abp.HangFire/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-01-20 20:00:07.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -649,7 +670,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13131/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp/packages.config
   detection_source: src/Abp/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -662,7 +683,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13821/default_d358fd76413e7b8cc458411fede039268825f8c2.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   detection_source: src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -676,7 +697,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12896/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.RedisCache/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.RedisCache/packages.config
   detection_source: src/Abp.RedisCache/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2015-12-29 19:30:36.000000000 Z
@@ -691,7 +712,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12881/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.Web.Api/packages.config
   detection_source: src/Abp.Web.Api/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -705,7 +726,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13011/default_971bb108ce002c2032e407a9046135e1542c46c7.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Tests/Abp.NHibernate.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Tests/Abp.NHibernate.Tests/packages.config
   detection_source: src/Tests/Abp.NHibernate.Tests/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -719,7 +740,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13029/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.MongoDB/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/Abp.MongoDB/packages.config
   detection_source: src/Abp.MongoDB/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -734,7 +755,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13312/default_51dc9af41ee0a21e27551191d6c835184da1c0d8.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   detection_source: src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -748,7 +769,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13418/default_de77a8370e47861dfbe30f06e25c22916ed609b5.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   detection_source: src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -762,7 +783,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13365/default_bf5ef28b557cbc9d58bff0b01afc8f39b37cfbc6.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   detection_source: src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -776,7 +797,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13436/default_9b520b7c258654c414831abb72568e430492595c.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   detection_source: src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -790,7 +811,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13498/default_83bd69dd2d30bd3eae917c5ac8376fd500016904.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   detection_source: src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
@@ -804,7 +825,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
+  detection_source_url: https://github.com/mauriliofilho/aspnetboilerplate/blob/master/src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   detection_source: src/TestBase/Tests/Abp.TestBase.SampleApplication.Tests/packages.config
   last_updated_by: Halil İbrahim Kalkan
   last_updated_on: 2016-02-22 21:05:10.000000000 Z
