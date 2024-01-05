@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mauriliofilho/aspnetboilerplate](https://github.com/mauriliofilho/aspnetboilerplate)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|58<br/>Tools used|11/30/23 <br/>Report generated|
+|58<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -266,7 +266,7 @@ Full tech stack [here](/techstack.md)
 |[MongoDB.Driver](https://www.nuget.org/MongoDB.Driver)|v2.2.3|02/22/16|Halil İbrahim Kalkan |N/A|[CVE-2022-48282](https://github.com/advisories/GHSA-7j9m-j397-g4wx) (High)|
 |[MongoDB.Driver.Core](https://www.nuget.org/MongoDB.Driver.Core)|v2.2.3|02/22/16|Halil İbrahim Kalkan |N/A|N/A|
 |[NSubstitute](https://www.nuget.org/NSubstitute)|v1.9.2|12/21/15|Halil İbrahim Kalkan |BSD-3-Clause|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v8.0.2|01/20/16|Halil İbrahim Kalkan |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v8.0.2|01/20/16|Halil İbrahim Kalkan |MIT|[](https://github.com/advisories/GHSA-8rfx-6mr3-5jh3) (High)<br/>[CVE-2024-21907](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
 |[Nito.AsyncEx](https://www.nuget.org/Nito.AsyncEx)|v3.0.1|02/22/16|Halil İbrahim Kalkan |MIT|N/A|
 |[Shouldly](https://www.nuget.org/Shouldly)|v2.6.0|02/22/16|Halil İbrahim Kalkan |N/A|N/A|
 |[StackExchange.Redis](https://www.nuget.org/StackExchange.Redis)|v1.0.488|12/29/15|Halil İbrahim Kalkan |Other|N/A|
