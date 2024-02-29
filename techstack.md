@@ -3,21 +3,21 @@
 ## Tech Stack
 mauriliofilho/aspnetboilerplate is built on the following main stack:
 
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [C#](http://csharp.net) – Languages
-- [MongoDB](http://www.mongodb.com/) – Databases
-- [SQLite](http://www.sqlite.org/) – Databases
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- [Castle Windsor](http://www.castleproject.org/projects/windsor/) – Container Tools
-- [NHibernate](https://nhibernate.info) – Object Relational Mapper (ORM)
-- [xUnit](http://xunit.github.io/) – Testing Frameworks
-- [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
-- [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) – Realtime Backend / API
-- [Hangfire](http://hangfire.io/) – Background Processing
-- [Owin](http://owin.org/) – Web Server Interface
 - [ASP.NET](https://www.asp.net/) – Languages
+- [C#](http://csharp.net) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
+- [Hangfire](http://hangfire.io/) – Background Processing
+- [MongoDB](http://www.mongodb.com/) – Databases
+- [NHibernate](https://nhibernate.info) – Object Relational Mapper (ORM)
+- [SQLite](http://www.sqlite.org/) – Databases
+- [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) – Realtime Backend / API
 - [Castle Core](https://github.com/castleproject/Core) – Logging Tools
+- [Castle Windsor](http://www.castleproject.org/projects/windsor/) – Container Tools
+- [Owin](http://owin.org/) – Web Server Interface
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [xUnit](http://xunit.github.io/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -27,21 +27,21 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 mauriliofilho/aspnetboilerplate is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/2249/default_12b2b039b83152e7b9f24c0f61bfa26142f35614.png' alt='Castle Windsor'/> [Castle Windsor](http://www.castleproject.org/projects/windsor/) – Container Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2250/LogoNH_med_400x400.JPG' alt='NHibernate'/> [NHibernate](https://nhibernate.info) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png' alt='xUnit'/> [xUnit](http://xunit.github.io/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/3251/no-img-open-source.png' alt='Entity Framework'/> [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/4013/SignalR-logo.png' alt='SignalR'/> [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/4676/7880472.png' alt='Hangfire'/> [Hangfire](http://hangfire.io/) – Background Processing
-- <img width='25' height='25' src='https://img.stackshare.io/service/4967/New_Project__95_.png' alt='Owin'/> [Owin](http://owin.org/) – Web Server Interface
 - <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3251/no-img-open-source.png' alt='Entity Framework'/> [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/4676/7880472.png' alt='Hangfire'/> [Hangfire](http://hangfire.io/) – Background Processing
+- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2250/LogoNH_med_400x400.JPG' alt='NHibernate'/> [NHibernate](https://nhibernate.info) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/4013/SignalR-logo.png' alt='SignalR'/> [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) – Realtime Backend / API
 - <img width='25' height='25' src='https://img.stackshare.io/service/20916/default_6d17162c9963bc83521ee29cf394f349c95173f3.png' alt='Castle Core'/> [Castle Core](https://github.com/castleproject/Core) – Logging Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2249/default_12b2b039b83152e7b9f24c0f61bfa26142f35614.png' alt='Castle Windsor'/> [Castle Windsor](http://www.castleproject.org/projects/windsor/) – Container Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4967/New_Project__95_.png' alt='Owin'/> [Owin](http://owin.org/) – Web Server Interface
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png' alt='xUnit'/> [xUnit](http://xunit.github.io/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mauriliofilho/aspnetboilerplate](https://github.com/mauriliofilho/aspnetboilerplate)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|58<br/>Tools used|01/05/24 <br/>Report generated|
+|58<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
